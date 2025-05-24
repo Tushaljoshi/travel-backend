@@ -2,3 +2,5 @@ flask
 gunicorn
 flask-cors
 flask-sqlalchemy
+flask-login
+werkzeug>=2.3.0
